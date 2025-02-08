@@ -8,7 +8,7 @@
             "name": "mydb",
             "database": "mydatabase",
             "username": "postgres",
-            "password": "12345"
+            "password": "postgres"
         }
     ]
 }
